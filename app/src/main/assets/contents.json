@@ -1,0 +1,474 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Pack1",
+      "publisher": "Sephiroth1993",
+      "tray_image_file": "Pack1.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"sephiroth1993@mail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        },
+        {
+          "image_file": "29.webp"
+        },
+        {
+          "image_file": "30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Pack2",
+      "publisher": "Sephiroth1993",
+      "tray_image_file": "Pack2.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"sephiroth1993@mail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        },
+        {
+          "image_file": "29.webp"
+        },
+        {
+          "image_file": "30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Pack3",
+      "publisher": "Sephiroth1993",
+      "tray_image_file": "Pack3.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"sephiroth1993@mail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        },
+        {
+          "image_file": "29.webp"
+        },
+        {
+          "image_file": "30.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Pack4",
+      "publisher": "Sephiroth1993",
+      "tray_image_file": "Pack4.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"sephiroth1993@mail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        },
+        {
+          "image_file": "13.webp"
+        },
+        {
+          "image_file": "14.webp"
+        },
+        {
+          "image_file": "15.webp"
+        },
+        {
+          "image_file": "16.webp"
+        },
+        {
+          "image_file": "17.webp"
+        },
+        {
+          "image_file": "18.webp"
+        },
+        {
+          "image_file": "19.webp"
+        },
+        {
+          "image_file": "20.webp"
+        },
+        {
+          "image_file": "21.webp"
+        },
+        {
+          "image_file": "22.webp"
+        },
+        {
+          "image_file": "23.webp"
+        },
+        {
+          "image_file": "24.webp"
+        },
+        {
+          "image_file": "25.webp"
+        },
+        {
+          "image_file": "26.webp"
+        },
+        {
+          "image_file": "27.webp"
+        },
+        {
+          "image_file": "28.webp"
+        },
+        {
+          "image_file": "29.webp"
+        },
+        {
+          "image_file": "30.webp"
+        }
+
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Pack5",
+      "publisher": "Sephiroth1993",
+      "tray_image_file": "Pack5.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"sephiroth1993@mail.com",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01.webp"
+        },
+        {
+          "image_file": "02.webp"
+        },
+        {
+          "image_file": "03.webp"
+        },
+        {
+          "image_file": "04.webp"
+        },
+        {
+          "image_file": "05.webp"
+        },
+        {
+          "image_file": "06.webp"
+        },
+        {
+          "image_file": "07.webp"
+        },
+        {
+          "image_file": "08.webp"
+        },
+        {
+          "image_file": "09.webp"
+        },
+        {
+          "image_file": "10.webp"
+        },
+        {
+          "image_file": "11.webp"
+        },
+        {
+          "image_file": "12.webp"
+        }
+
+      ]
+    }
+  ]
+},
