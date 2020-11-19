@@ -15,16 +15,20 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "01.webp"
+          "image_file": "01.webp",
+          "emojis": ["🙂"]
         },
         {
-          "image_file": "02.webp"
+          "image_file": "02.webp",
+          "emojis": ["🙂"]
         },
         {
-          "image_file": "03.webp"
+          "image_file": "03.webp",
+          "emojis": ["🙂"]
         },
         {
-          "image_file": "04.webp"
+          "image_file": "04.webp",
+          "emojis": ["🙂"]
         },
         {
           "image_file": "05.webp"

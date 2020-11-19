@@ -7,7 +7,7 @@ android {
     }
     compileSdkVersion 29
     defaultConfig {
-        applicationId "com.sephiroth1993.mystickers"
+        applicationId "com.sephiroth1993.stickerZ"
         minSdkVersion 15
         targetSdkVersion 29
         versionCode 1
