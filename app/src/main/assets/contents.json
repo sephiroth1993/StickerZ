@@ -676,7 +676,7 @@
     },
     {
       "identifier": "6",
-      "name": "Pack5",
+      "name": "Pack6",
       "publisher": "Sephiroth1993",
       "tray_image_file": "Pack6.png",
       "image_data_version":"1",
@@ -712,10 +712,6 @@
         },
         {
           "image_file": "07.webp",
-          "emojis": ["🙂"]
-        },
-        {
-          "image_file": "08.webp",
           "emojis": ["🙂"]
         }
 
