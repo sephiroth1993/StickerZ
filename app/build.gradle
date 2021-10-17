@@ -2,9 +2,6 @@ apply plugin: 'com.android.application'
 
 android {
     //the compression of webp file during build causes problem with FileDescriptor in ContentProvider.
-    aaptOptions {
-        noCompress "webp"
-    }
     compileSdkVersion 29
     defaultConfig {
         applicationId "com.sephiroth1993.stickerZ"
@@ -42,6 +39,9 @@ android {
     packagingOptions {
         exclude 'lib/*/libnative-imagetranscoder.so'
         exclude 'lib/*/libnative-filters.so'
+    }
+    androidResources {
+        noCompress 'webp'
     }
 
     // Configures multiple APKs based on ABI.
